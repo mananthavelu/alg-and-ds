@@ -1,2 +1,2 @@
 # alg-and-ds
-Test repository whicha are used for testing new functions and classes.
+Test repository which is used for testing new functions and classes.
